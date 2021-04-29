@@ -1,0 +1,2 @@
+# Exploring Exo-Planets with Node.js
+This is a small learning program that looks at using external csv-parse package with the built-in fs package to stream complex data through a parser to determine the number of potentially habitable planets that we have currently found.
